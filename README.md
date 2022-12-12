@@ -1,9 +1,6 @@
 ![](https://raw.githubusercontent.com/prmndata/dwi-shafer/main/images/white.png?token=GHSAT0AAAAAABZQINAECOP6PFNWURXQYQE6Y4QV34A)  
   
-
 <div align="center">Construction Industry | Supplier & Contractor</div>  
-
-
 
 
 <br/>  
@@ -46,5 +43,7 @@ Click "+" Button Embed Full page
 ```bash
 # Embed code
 $ Section from index.html
+$ view/dwi-shafer-mandiri/dwi-shafer-mandiri
 ```
+
 Made with :heart: by [SyDant](https://github.com/SyDant/) 
